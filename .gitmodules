@@ -1,0 +1,9 @@
+[submodule "build/lib/raylib"]
+	path = build/lib/raylib
+	url = https://github.com/raysan5/raylib
+[submodule "build/lib/inih"]
+	path = build/lib/inih
+	url = https://github.com/benhoyt/inih
+[submodule "build/lib/imgui"]
+	path = build/lib/imgui
+	url = https://github.com/ocornut/imgui
