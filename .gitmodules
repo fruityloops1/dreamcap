@@ -7,3 +7,6 @@
 [submodule "lib/nativefiledialog-extended"]
 	path = lib/nativefiledialog-extended
 	url = https://github.com/btzy/nativefiledialog-extended
+[submodule "lib/nlzss11"]
+	path = lib/nlzss11
+	url = https://github.com/fruityloops1/nlzss11

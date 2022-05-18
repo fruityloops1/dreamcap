@@ -1,5 +1,7 @@
 #pragma once
 
+#include "dreamcap/ui_root.h"
+
 namespace dc {
 
 class UIRoot;
